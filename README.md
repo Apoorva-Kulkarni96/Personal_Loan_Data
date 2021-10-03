@@ -30,3 +30,7 @@ Identifying whether a person will take a personal loan from the bank or not. Her
 ### Conclusion:
 
 We were able to achieve maximum accuracy using Logistic Regression 95% and accuracy of KNN is 92%.
+
+Using KNN Algorithm, we get 1388 correct predictions and 112 incorrect predictions. 
+
+Using Logistic Regression, we get 1420 correct predictions and 80 incorrect predictions
